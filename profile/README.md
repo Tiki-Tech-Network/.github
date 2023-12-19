@@ -16,7 +16,9 @@ The Tiki Tech Network Solutions (TTNS) Team was commissioned to perform a networ
 
 ## [Topologies](https://github.com/Tiki-Tech-Network/topologies)
 
-## [Automation]()
+## [Automation](https://github.com/Tiki-Tech-Network/automation/tree/main)
+- [*Server Setup*]()
+
 
 ## [Team Documentation](https://github.com/Tiki-Tech-Network/Team-Documentation)
 - *Team Agreement*
