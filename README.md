@@ -29,7 +29,7 @@ The Tiki Tech Network Solutions (TTNS) Team was commissioned to perform a networ
 # Tiki Tech Network Solutions Team
 
 - Jaime Angel [Jaime's Github](https://github.com/jaimeangelhi) | [Jaime's LinkedIn](https://www.linkedin.com/in/jaime-angel/)
-- Ian Bennett [Ian's GitHub]() | [Ian's LinkedIn]()
+- Ian Bennett [Ian's GitHub](https://www.github.com/subtropicalhorseback/) | [Ian's LinkedIn](https://www.linkedin.com/in/subtropicalhorseback)
 - Juan Cano [Juan's GitHub](https://github.com/jmcano50) | [Juan's LinkedIn](www.linkedin.com/in/juan-cano-3021578)
 - Jasmine Pressley [Jasmine's Github](https://github.com/Jasminepressley) | [Jasmine's LinkedIn](https://www.linkedin.com/in/jasminerpressley/)
 - Nick Watson [Nick's Github](https://github.com/GODKINGDEATHLORD) | [Nick's LinkedIn](https://www.linkedin.com/in/nicolaus-w-343047138/)
