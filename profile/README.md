@@ -5,9 +5,9 @@ The Tiki Tech Network Solutions (TTNS) Team was commissioned to perform a networ
 - *Network Design and Topology*
 - *VPN Setup*
 - *VLAN Implementation*
-- *Backup Solution*
+- [*Backup Solution*](https://docs.google.com/document/d/1kcj645gkddGmWhaN847avS0OPFun5ReXSku40A145kI/edit?usp=sharing)
 - *File Shares*
-- *Security Measures*
+- [*Security Measures*](https://docs.google.com/document/d/1uGggJ4yKi1Y63vUMVdERzKXOOFzz61D7TuTXKQPbCLg/edit?usp=sharing)
 - *Windows Server Deployment and Domain Controller Setup*
 - *Virtual Machine Deployment*
 - *Documentation*
