@@ -10,26 +10,32 @@ The Tiki Tech Network Solutions (TTNS) Team was commissioned to perform a networ
 - *Security Measures*
 - *Windows Server Deployment and Domain Controller Setup*
 - *Virtual Machine Deployment*
-- [*IT Onboarding Policy*](https://docs.google.com/document/d/1doR6BtC1C6AIdoha8lQH6TiJvJreuEPSjU9Nq9mL_kw/edit?usp=sharing)
 - *Documentation*
-- *Client Company and Org Chart*
+- [*IT Onboarding Policy*](https://docs.google.com/document/d/1doR6BtC1C6AIdoha8lQH6TiJvJreuEPSjU9Nq9mL_kw/edit?usp=sharing)
+- [*Client Company and Org Chart*](https://docs.google.com/document/d/1_mY4seoEB770bpy9fCJSsxqHPc0E1GgUxhmY2U2rNoE/edit?usp=sharing)
 
+  
 ## [Topologies](https://github.com/Tiki-Tech-Network/topologies)
+-[*Initial Topology*](https://github.com/Tiki-Tech-Network/topologies)
+-[*Final Topology*](https://github.com/Tiki-Tech-Network/topologies)
 
 ## [Automation](https://github.com/Tiki-Tech-Network/automation/tree/main)
 - [*Server Setup*](https://github.com/Tiki-Tech-Network/automation/blob/main/wash.ps1)
 
 
 ## [Team Documentation](https://github.com/Tiki-Tech-Network/Team-Documentation)
-- *Team Agreement*
-- *Systems Selection*
-- *Trello - Project Management Tool*
-- *TTNS Calendar*
+- [*Team Agreement*](https://docs.google.com/document/d/1squ7mW38DHbzM99B_XhA0dTw91aAnQ9KaQ7y_MGpiYo/edit?usp=sharing)
+- [*Systems Selection*](https://docs.google.com/document/d/1BF1CfyBBLtvEHyAh_FDc60p7y8tHaxQeB_7BJ2sIyA4/edit?usp=drive_link)
+- [*Trello - Project Management Tool*](https://trello.com/invite/tikitechnetworksolutions/ATTIb19c9ef91df22dc3a7592d957558e4e30524CE9C)
+- [*TTNS Calendar*](https://calendar.google.com/calendar/u/0?cid=NGJhMmE1YWZkMzZiOWYxMzE4ZjMxYmQ1ZWU1ZGFmMzdkYTc3YTQ2MmYwNDdhNjkwMWU5YzkwM2I0OTZiMDY0NkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
+  
 ## [Network Upgrade Documentation](https://github.com/Tiki-Tech-Network/Network-Upgrade-Documentation)
-- *Standard Operating Procedures*
-- *Network Upgrade Presentation*
-
+- [*IT Onboarding Policy*](https://docs.google.com/document/d/1doR6BtC1C6AIdoha8lQH6TiJvJreuEPSjU9Nq9mL_kw/edit?usp=sharing)
+- [*Client Company and Org Chart*](https://docs.google.com/document/d/1_mY4seoEB770bpy9fCJSsxqHPc0E1GgUxhmY2U2rNoE/edit?usp=sharing)
+- [*Standard Operating Procedures*](https://github.com/Tiki-Tech-Network/Network-Upgrade-Documentation/blob/main/README.md)
+- [*Network Upgrade Presentation*](https://github.com/Tiki-Tech-Network/Network-Upgrade-Documentation/blob/main/README.md)
+  
 # Tiki Tech Network Solutions Team
 
 - Jaime Angel [Jaime's Github](https://github.com/jaimeangelhi) | [Jaime's LinkedIn](https://www.linkedin.com/in/jaime-angel/)
