@@ -16,8 +16,7 @@ The Tiki Tech Network Solutions (TTNS) Team was commissioned to perform a networ
 
   
 ## [Topologies](https://github.com/Tiki-Tech-Network/topologies)
-- [*Initial Topology*](https://github.com/Tiki-Tech-Network/topologies)
-- [*Final Topology*](https://github.com/Tiki-Tech-Network/topologies)
+- [*NaluTech Network Upgrade Topology*](https://github.com/Tiki-Tech-Network/topologies)
 
 ## [Automation](https://github.com/Tiki-Tech-Network/automation/tree/main)
 - [*Server Setup*](https://github.com/Tiki-Tech-Network/automation/blob/main/wash.ps1)
