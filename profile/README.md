@@ -3,8 +3,8 @@
 The Tiki Tech Network Solutions (TTNS) Team was commissioned to perform a network upgrade of a growing technology company for further support of its expanding workforce and enhanced data security. The project objectives are as follows:
 
 - *Network Design and Topology*
-- *VPN Setup*
-- *VLAN Implementation*
+- [*VPN Setup*](https://docs.google.com/document/d/1VvFro_gIaZXPEU9jCewMM7YS_4GvjY8-yrEvf4v-YVc/edit?usp=sharing)
+- [*VLAN Implementation*]()
 - [*Backup Solution*](https://docs.google.com/document/d/1kcj645gkddGmWhaN847avS0OPFun5ReXSku40A145kI/edit?usp=sharing)
 - *File Shares*
 - [*Security Measures*](https://docs.google.com/document/d/1uGggJ4yKi1Y63vUMVdERzKXOOFzz61D7TuTXKQPbCLg/edit?usp=sharing)
